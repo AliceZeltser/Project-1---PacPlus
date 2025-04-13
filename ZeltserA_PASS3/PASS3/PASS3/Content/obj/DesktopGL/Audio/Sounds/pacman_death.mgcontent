@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/pacman_death.wav</SourceFile>
+  <SourceTime>2024-01-21T14:57:24.8255092-05:00</SourceTime>
+  <DestFile>D:/ICS4/Assignments/PASS3/PASS3/PASS3/bin/Debug/Content/Audio/Sounds/pacman_death.xnb</DestFile>
+  <DestTime>2024-01-21T15:01:25.2878053-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2024-01-06T17:48:02.1353509-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2024-01-06T17:48:02.1353509-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

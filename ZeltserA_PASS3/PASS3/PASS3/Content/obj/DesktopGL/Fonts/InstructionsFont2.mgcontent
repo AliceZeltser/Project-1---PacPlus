@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/InstructionsFont2.spritefont</SourceFile>
+  <SourceTime>2024-01-19T15:48:54.4775925-05:00</SourceTime>
+  <DestFile>D:/ICS4/Assignments/PASS3/PASS3/PASS3/bin/Debug/Content/Fonts/InstructionsFont2.xnb</DestFile>
+  <DestTime>2024-01-19T15:48:57.2255007-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-01-06T17:48:02.1353509-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-01-06T17:48:02.1353509-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

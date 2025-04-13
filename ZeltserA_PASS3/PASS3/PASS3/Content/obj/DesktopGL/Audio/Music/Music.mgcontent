@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Music/Music.mp3</SourceFile>
+  <SourceTime>2024-01-21T17:40:40.2235607-05:00</SourceTime>
+  <DestFile>D:/ICS4/Assignments/PASS3/PASS3/PASS3/bin/Debug/Content/Audio/Music/Music.xnb</DestFile>
+  <DestTime>2024-01-21T17:42:13.9451087-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-01-06T17:48:02.1353509-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-01-06T17:48:02.1353509-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/ICS4/Assignments/PASS3/PASS3/PASS3/bin/Debug/Content/Audio/Music/Music.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

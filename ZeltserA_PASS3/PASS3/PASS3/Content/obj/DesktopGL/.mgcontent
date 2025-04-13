@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Music/Music.mp3</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/Click.wav</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/pacman_chomp.wav</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/pacman_death.wav</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/pacman_eatfruit.wav</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Audio/Sounds/Won.wav</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/FinalScoreFont.spritefont</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/InstructionsFont.spritefont</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/InstructionsFont2.spritefont</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/MenuFont.spritefont</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Fonts/ScoreFont.spritefont</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/BackgroundMenu.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/ExitButton.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/GameMenuButton.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/InstructionsButton.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/keys.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/MenuButton.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/NextLevelButton.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/SoundOff.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/SoundOn.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Buttons/StartButton.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Characters/blueGhost.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Characters/greenGhost.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Characters/orangeGhost.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Characters/PacManDown.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Characters/PacManLeft.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Characters/PacManRight.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Characters/PacManUp.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Characters/redGhost.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Characters/yellowGhost.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Items/Cherry.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Items/EmptyHeart.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Items/FullHeart.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Items/GoldCherry.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Items/Strawberry.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Tiles/BottomLeft.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Tiles/BottomRight.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Tiles/CoinImg.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Tiles/Floor.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Tiles/TopLeft.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Tiles/TopRight.png</File>
+    <File>D:/ICS4/Assignments/PASS3/PASS3/PASS3/Content/Images/Tiles/Wall.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

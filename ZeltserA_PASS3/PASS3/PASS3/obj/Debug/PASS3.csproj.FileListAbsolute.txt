@@ -1,0 +1,11 @@
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\bin\Debug\PASS3.exe.config
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\bin\Debug\PASS3.exe
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\bin\Debug\PASS3.pdb
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\bin\Debug\GameUtility.dll
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\bin\Debug\MonoGame.Framework.dll
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\bin\Debug\MonoGame.Framework.xml
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\obj\Debug\PASS3.csproj.CoreCompileInputs.cache
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\obj\Debug\PASS3.csproj.CopyComplete
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\obj\Debug\PASS3.exe
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\obj\Debug\PASS3.pdb
+D:\ICS4\Assignments\PASS3\PASS3\PASS3\obj\Debug\PASS3.csproj.AssemblyReference.cache
